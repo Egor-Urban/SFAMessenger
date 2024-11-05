@@ -1,0 +1,8 @@
+Copyright (c) [2024] [Egor Zhurban]
+
+Permission is hereby granted to use, copy, modify, and distribute copies of this software, under the following conditions:
+1. The code may not be used for commercial purposes.
+2. When distributing the original code or its modifications, including in binary form, attribution must be given, and a link to the original source must be provided.
+3. The author retains the exclusive right to further use, modify, and distribute the software, including for commercial purposes.
+
+This code is provided "as is," without any warranties, including but not limited to the implied warranties of merchantability or fitness for a particular purpose.
